@@ -1,0 +1,31 @@
+.marquee_container {
+  padding: 3px;
+  border: 1px solid #e6e6e6;
+  overflow: hidden;
+}
+
+.marquee {
+  display: block;
+  position: relative;
+  animation: scroll 30s linear infinite;
+  padding: 3px;
+  white-space: nowrap;
+  -webkit-animation: scroll 30s linear infinite;
+}
+
+.marquee:hover {
+  animation-play-state: paused;
+}
+
+.marquee_text {
+  display: inline-block;  /* Use inline-block for side-by-side text */
+  width: auto;  /* Let the text width be auto */
+  padding: 5px 15px;
+  margin-right: 20px;  /* Add space between texts */
+}
+
+/* Make it move */
+@keyframes scroll {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
