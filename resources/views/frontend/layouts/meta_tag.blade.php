@@ -4,21 +4,21 @@
 <!-- Title (Dynamic or Static) -->
 <title>@yield('title', 'দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা')</title>
 <!-- Description (Dynamic or Static) -->
-<meta name="description" content="@yield('description', 'দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা ছাত্রদের ইসলামিক শিক্ষা ও চরিত্র গঠনে এক অনন্য প্রতিষ্ঠান।')">
+<meta name="description" content="@yield('description', 'আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা ছাত্রদের ইসলামিক শিক্ষা ও চরিত্র গঠনে এক অনন্য প্রতিষ্ঠান।')">
 <!-- CSRF Token (AJAX requests এর জন্য, যদি প্রয়োজন হয়) -->
 <meta name="csrf-token" content="{{ csrf_token() }}">
 <!-- Keywords (SEO জন্য) -->
-<meta name="keywords" content="দক্ষিণ ফুকরা ইসলামিয়া, মাদ্রাসা, এতিমখানা, ইসলামিক শিক্ষা, কুরআন শিক্ষা, মাদ্রাসা বাংলাদেশ">
-
+<meta name="keywords" content="আল জামিয়াতুল ইসলামিয়া, দক্ষিণ ফুকরা ইসলামিয়া, মাদ্রাসা, এতিমখানা, ইসলামিক শিক্ষা, কুরআন শিক্ষা, মাদ্রাসা বাংলাদেশ">
+ 
 <!-- Author -->
-<meta name="author" content="দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা">
+<meta name="author" content="আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা">
 
 <!-- Robots (SEO) -->
 <meta name="robots" content="index, follow">
 <!-- Open Graph Meta Tags -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="@yield('og_title', 'দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা')">
-<meta property="og:description" content="@yield('og_description', 'দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা - শিক্ষার আলো ও ইসলামী মূল্যবোধে ছাত্রদের চরিত্র গঠন।')">
+<meta property="og:title" content="@yield('og_title', 'আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা')">
+<meta property="og:description" content="@yield('og_description', 'আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা - শিক্ষার আলো ও ইসলামী মূল্যবোধে ছাত্রদের চরিত্র গঠন।')">
 <meta property="og:url" content="{{ url()->current() }}">
 <meta property="og:image" content="@yield('og_image', asset('frontend/images/cover.jpg'))">
 <meta property="og:site_name" content="দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা">
@@ -26,8 +26,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="@yield('twitter_title', 'দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা')">
-<meta name="twitter:description" content="@yield('twitter_description', 'ইসলামিক শিক্ষা ও ছাত্রদের চরিত্র গঠনের প্রতিশ্রুতি।')">
+<meta name="twitter:title" content="@yield('twitter_title', 'আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা')">
+<meta name="twitter:description" content="@yield('twitter_description', 'আল জামিয়াতুল ইসলামিয়া ইসলামিক শিক্ষা ও ছাত্রদের চরিত্র গঠনের প্রতিশ্রুতি।')">
 <meta name="twitter:image" content="@yield('twitter_image', asset('frontend/images/cover.jpg'))">
 <meta name="twitter:creator" content="@YourTwitterHandle">
         

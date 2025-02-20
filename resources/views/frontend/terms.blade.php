@@ -13,7 +13,7 @@
 <div class="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow-lg">
     <h2 class="text-2xl font-semibold text-center mb-6">Terms and Conditions</h2>
     <p class="text-gray-700 leading-relaxed mb-4">
-        আমাদের প্রতিষ্ঠান, <span class="font-semibold">দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা</span>, 
+        আমাদের প্রতিষ্ঠান, <span class="font-semibold">আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা</span>, 
         আমাদের ওয়েবসাইট বা পরিষেবাগুলি ব্যবহার করার পূর্বে নিচের শর্তাবলী মেনে চলতে হবে। 
         এই শর্তাবলীটি ওয়েবসাইটের ব্যবহারকারীদের জন্য অত্যন্ত গুরুত্বপূর্ণ, এবং আপনাকে এটির সকল শর্তাবলী পরিপালন করতে হবে।
     </p>

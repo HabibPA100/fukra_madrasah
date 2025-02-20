@@ -7,20 +7,20 @@
         <div class="sm:flex sm:items-center sm:justify-between">
             <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
                 <img src="{{ asset('frontend/images/logo/south-fukra-m-logo.jpg') }}" class="h-8" alt="Flowbite Logo" />
-                <span class="self-center text-sm md:text-2xl font-semibold text-wrap-wrap dark:text-white">South Fuqra Islamia Madrasa and Orphanage</span>
+                <span class="self-center text-sm md:text-2xl font-semibold text-wrap-wrap dark:text-white">Al Zamia Al Islamia South Fukra Islamia Madrasa & Etimkhana</span>
             </a>
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-900 sm:mb-0 dark:text-white">
                 <li>
-                    <a href="{{ route('about.us') }}" class="hover:underline me-4 md:me-6">About</a>
+                    <a href="{{ route('about.us') }}" class="hover:underline me-6 md:me-6 p-2">About</a>
                 </li>
                 <li>
-                    <a href="{{ route('privacy.policy') }}" class="hover:underline me-4 md:me-6">Privacy Policy</a>
+                    <a href="{{ route('privacy.policy') }}" class="hover:underline me-6 md:me-6 p-2">Privacy Policy</a>
                 </li>
                 <li>
-                    <a href="{{ route('terms.condition') }}" class="hover:underline me-4 md:me-6">Terms & Condition</a>
+                    <a href="{{ route('terms.condition') }}" class="hover:underline me-6 md:me-6 p-2">Terms & Condition</a>
                 </li>
                 <li>
-                    <a href="{{ route('contact.us') }}" class="hover:underline">Contact</a>
+                    <a href="{{ route('contact.us') }}" class="hover:underline me-6 md:me-6 p-2">Contact</a>
                 </li>
             </ul>
         </div>
@@ -44,9 +44,9 @@
                     <i class="fa fa-phone-alt text-white"></i>
                 </div>
                 <div class="ms-3">
-                    <a href="tel:+8801875-905552">
+                    <a href="tel:+880 1719-634541">
                         <h5 class="text-gray-800">মোবাইল</h5>
-                        <p class="mb-0">+8801875-------</p>
+                        <p class="mb-0">+880 1719-634541</p>
                     </a>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <i class="fa fa-envelope-open text-white"></i>
                 </div>
                 <div class="ms-3">
-                    <a href="mailto:mhudb1361@gmail.com">
+                    <a href="mailto:dfim.madrasa@gmail.com">
                         <h5 class="text-gray-800">Email</h5>
                         <p class="mb-0">dfim.madrasa@gmail.com</p>
                     </a>

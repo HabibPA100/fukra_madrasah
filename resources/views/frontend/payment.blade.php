@@ -17,8 +17,8 @@
             <img src="{{ asset('frontend/images/payment/bkash.png') }}" alt="Bkash" class="rounded-full" width="50" height="50">
             <img src="{{ asset('frontend/images/payment/nagad.png') }}" alt="Nagad" class="rounded-full" width="50" height="50">
         </span>
-        <p class="text-center font-bold text-green-500 text-xl md:text-2xl lg:text-4xl">সাধারণ দানঃ- 014065------ </p>
-        <p class="text-center font-bold text-red-500 text-xl md:text-2xl lg:text-4xl">যাকাত দিনঃ- 014065------ </p>
+        <p class="text-center font-bold text-green-500 text-xl md:text-2xl lg:text-4xl">সাধারণ দানঃ- +880 1719-634541 </p>
+        <p class="text-center font-bold text-red-500 text-xl md:text-2xl lg:text-4xl">যাকাত দিনঃ- +880 1719-634541 </p>
     </div>
 <!-- bkash get way end-->
     <div class="bg-green-100 flex flex-col p-4">

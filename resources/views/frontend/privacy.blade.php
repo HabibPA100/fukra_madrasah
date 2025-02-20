@@ -14,7 +14,7 @@
     <h1 class="text-3xl font-semibold text-center mb-6">Privacy Policy</h1>
     
     <p class="text-lg text-gray-700 mb-4">
-        At <strong>দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা</strong>, we are committed to protecting your privacy. This privacy policy outlines the types of personal information we collect and how it is used and protected.
+        At <strong>আল জামিয়াতুল ইসলামিয়া দক্ষিণ ফুকরা ইসলামিয়া মাদ্রাসা ও এতিমখানা</strong>, we are committed to protecting your privacy. This privacy policy outlines the types of personal information we collect and how it is used and protected.
     </p>
 
     <h2 class="text-2xl font-semibold text-gray-800 mb-4">1. Information Collection</h2>

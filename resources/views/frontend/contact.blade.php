@@ -38,9 +38,9 @@
                         <i class="fa fa-phone-alt text-white"></i>
                     </div>
                     <div class="ms-3">
-                        <a href="tel:+8801875-905552">
+                        <a href="tel:+880 1719-634541">
                             <h5 class="text-gray-800">মোবাইল</h5>
-                            <p class="mb-0">+8801875-------</p>
+                            <p class="mb-0">+880 1719-634541</p>
                         </a>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                         <i class="fa fa-envelope-open text-white"></i>
                     </div>
                     <div class="ms-3">
-                        <a href="mailto:mhudb1361@gmail.com">
+                        <a href="mailto:dfim.madrasa@gmail.com">
                             <h5 class="text-gray-800">Email</h5>
                             <p class="mb-0">dfim.madrasa@gmail.com</p>
                         </a>
