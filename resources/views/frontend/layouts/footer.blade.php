@@ -95,7 +95,7 @@
         </section>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <!-- Footer Under Footer -->
-        <div class="bg-yellow-100 p-3">
+        <div class="bg-yellow-200 p-3">
             <span class="block text-sm text-gray-900 sm:text-center dark:text-gray-400">© 2025 South Fukra Islamiya Madrasah And Etim Khana.</span>
             <p class="text-center">
                 All Rights Reserved.
