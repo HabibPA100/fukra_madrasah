@@ -5,7 +5,7 @@
 @endpush
 @section('header-message-above')
 <div class="w-full pb-2">
-  <img src="{{ asset('frontend/images/logo/sfim_banner-01.jpg') }}" alt="Banner">
+  <img src="{{ asset('frontend/images/logo/sfim.jpg') }}" alt="Banner">
 </div>
 @endsection
 @section('body-message')
